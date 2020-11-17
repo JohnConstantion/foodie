@@ -1,1 +1,17 @@
 # Created by .ignore support plugin (hsz.mobi)
+将删除 .idea/.gitignore
+将删除 .idea/checkstyle-idea.xml
+将删除 .idea/compiler.xml
+将删除 .idea/inspectionProfiles/
+将删除 .idea/jarRepositories.xml
+将删除 .idea/misc.xml
+将删除 .idea/sonarlint/
+将删除 foodie-api/
+将删除 foodie-common/
+将删除 foodie-mapper/
+将删除 foodie-pojo/
+将删除 foodie-service/
+将删除 foodie.iml
+将删除 pom.xml
+将删除 src/
+将删除 .idea/vcs.xml
